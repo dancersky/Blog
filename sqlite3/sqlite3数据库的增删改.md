@@ -36,7 +36,7 @@ int insert_data(sqlite3 *db)
 }
 ```
 ***插入数据后我们可以看到数据库的数据为：***
-
+ ![image](https://github.com/Blog/sqlite3/1.jpg)
 ![这里写图片描述](http://img.blog.csdn.net/20180112110229629?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvRGFuY2VyX19Ta3k=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 **2，更新数据**
