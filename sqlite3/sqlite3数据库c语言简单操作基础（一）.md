@@ -9,7 +9,7 @@
 官网地址：[https://www.sqlite.org/download.html](https://www.sqlite.org/download.html).
 
 **2，四个基础API介绍**
-```
+```c
 int sqlite3_open(
   const char *filename,   /* Database filename */
   sqlite3 **ppDb          /* OUT: SQLite db handle */
@@ -43,7 +43,7 @@ int sqlite3_close（sqlite3 *）;
 [http://www.runoob.com/sqlite/sqlite-insert.html](http://www.runoob.com/sqlite/sqlite-insert.html).
 
 **3，数据库文件及表创建**
-```
+```c
 #include <sqlite3.h>
 #include <stdio.h>
 
