@@ -1,4 +1,4 @@
-
+### sqlite3数据库C语言简单操作基础之数据的增删改（二）
 
 **概述**：前面记录了sqlite3数据库c接口的一些基础API的功能介绍以及数据库文件创建及表的创建，今天主要就是记录一下数据库数据的增删改，为啥这里没说查，后面会单独做一个查的笔记。毕竟查可能就有点不一样了，它是有返回值的，所以就分类到下次记录吧。
 
@@ -36,8 +36,8 @@ int insert_data(sqlite3 *db)
 }
 ```
 ***插入数据后我们可以看到数据库的数据为：***
- ![image](https://github.com/dancersky/Blog/blob/master/sqlite3/img/1.jpg)
-![这里写图片描述](http://img.blog.csdn.net/20180112110229629?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvRGFuY2VyX19Ta3k=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+ ![image](http://img.blog.csdn.net/20180112110229629?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvRGFuY2VyX19Ta3k=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
 
 **2，更新数据**
 	主要还是看sql语句语法，更新数据用到的关键字就是**UPDATE**，它的语法知识如下。
