@@ -44,7 +44,7 @@
 
 ​	1，官网下载驱动相关软件，[驱动地址](http://www.st.com/content/st_com/en/search.html#q=ST-LINK/V2-1-t=tools-page=1).页面如下所示，选择对应版本下载，同时记得下载一下STSW-LINK007软件包，这个是用于ST-LINK/V2-1固件更新的。
 
-![]()
+![](https://github.com/dancersky/Blog/blob/master/STM32/img/%E9%A9%B1%E5%8A%A8%E9%A1%B5%E9%9D%A2%E4%B8%8B%E8%BD%BD.png)
 
 
 
@@ -54,7 +54,9 @@
 
 ​	我们将USB的mini口接上板子，另一端接到电脑，这时我们可以在设备管理器查看，我们应该可以看到下图所示的界面，一个ST-LINK Debug的串行控制总线和一个COM口。同时我们也看到绿色的LED灯闪烁。
 
-![]()
+![](https://github.com/dancersky/Blog/blob/master/STM32/img/%E9%A9%B1%E5%8A%A8%E6%98%BE%E7%A4%BA.png)
+
+
 
 **第四步，按B1键并观察LED灯闪烁频率**
 
@@ -97,7 +99,9 @@ STM32Cube_FW_L0_V1.10.0\Projects\STM32L073RZ-Nucleo\Examples\UART\UART_TwoBoards
 
 ​		（3）使用keil5编译软件，设置Device为对应的芯片，设置Debug选项为ST-LINK,下载程序到板子，下载成功后我们打开调试助手，选择我们对应的串口打开，设置9600波特率，按板子复位键，再按B1键，就可以看到收到了设备的信息如下所示（这里主要是keil5软件下载调试部分，就不祥说了）:
 
-​		![]()
+​		![](https://github.com/dancersky/Blog/blob/master/STM32/img/%E4%B8%B2%E5%8F%A3%E6%98%BE%E7%A4%BA%E4%BF%A1%E6%81%AF.png)
+
+
 
 **第六步，使用示例程序开发**
 
