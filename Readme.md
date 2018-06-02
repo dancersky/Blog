@@ -23,3 +23,7 @@
 ​	[官方STM32的NUCLEO开发板使用](https://github.com/dancersky/Blog/blob/master/STM32/nucleo%E6%9D%BF%E5%AD%90%E4%BD%BF%E7%94%A8.md)
 
 ​	[关于STM32串口printf输出调试信息问题](https://github.com/dancersky/Blog/blob/master/STM32/%E5%85%B3%E4%BA%8ESTM32%E4%B8%B2%E5%8F%A3printf%E8%BE%93%E5%87%BA%E8%B0%83%E8%AF%95%E4%BF%A1%E6%81%AF%E9%97%AE%E9%A2%98.md)
+
+​	[关于STM32时钟源及配置等相关知识笔记](https://github.com/dancersky/Blog/blob/master/STM32/%E5%85%B3%E4%BA%8ESTM32%E6%97%B6%E9%92%9F%E6%BA%90%E5%8F%8A%E9%85%8D%E7%BD%AE%E7%AD%89%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86%E7%AC%94%E8%AE%B0.md)
+
+​	

@@ -29,7 +29,7 @@
 
 ​	一般从数据手册中我们可以找到详细的各总线对应的外设情况，如下：
 
-​	![外设对应图]()
+![外设对应图](https://github.com/dancersky/Blog/blob/master/STM32/img/%E5%A4%96%E8%AE%BE%E5%AF%B9%E5%BA%94%E5%9B%BE.png)
 
 ### 5，一个简单的系统时钟配置（HAL库,部分代码）
 
