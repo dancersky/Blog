@@ -26,4 +26,6 @@
 
 ​	[关于STM32时钟源及配置等相关知识笔记](https://github.com/dancersky/Blog/blob/master/STM32/%E5%85%B3%E4%BA%8ESTM32%E6%97%B6%E9%92%9F%E6%BA%90%E5%8F%8A%E9%85%8D%E7%BD%AE%E7%AD%89%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86%E7%AC%94%E8%AE%B0.md)
 
+​	[STM32闹钟的一个进阶使用](https://github.com/dancersky/Blog/blob/master/STM32/STM32%E9%97%B9%E9%92%9F%E7%9A%84%E4%B8%80%E4%B8%AA%E8%BF%9B%E9%98%B6%E4%BD%BF%E7%94%A8.md)
+
 ​	
